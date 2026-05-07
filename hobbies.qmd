@@ -1,0 +1,18 @@
+---
+title: "Hobbies"
+---
+
+# My Hobbies
+
+## Basketball
+
+I enjoy playing basketball because it helps me stay active and work with teammates.
+![](basketball.jpg){width=60%}
+
+## Tennis
+
+I like tennis because it improves my focus and reaction speed. I also participated in competitions before.
+
+## Fitness
+
+I enjoy going to the gym late at night because it helps me relax and clear my mind. Sometimes I cannot fall asleep until 2 or 3 AM, so working out alone at night has become part of my routine.

@@ -1,0 +1,28 @@
+---
+title: "Minchao Xiong"
+image: myphoto.jpg
+about:
+  template: marquee
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:minchao.xiong@ucdenver.edu
+
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+Hello! Welcome to my personal website.
+
+## Skills
+
+- Python Programming
+- Basketball
+- Tennis
+
+## Education
+
+- University of Colorado Denver
+- Major: Economics
+- Courses: Data Wrangling and Econometrics

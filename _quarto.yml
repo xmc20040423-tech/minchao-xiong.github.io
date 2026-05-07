@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Minchao Xiong"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: hobbies.qmd
+        text: Hobbies
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+
+
